@@ -53,8 +53,6 @@ The project therefore focuses not only on financial performance but also on iden
 * `COUNTA`
 * `COUNTIF`
 * `XLOOKUP`
-* `VLOOKUP`
-* `TEXTJOIN`
 * Conditional calculations
 * PivotTables
 * PivotCharts
@@ -127,9 +125,10 @@ Additional operational data would be required to determine the exact root cause 
 ```text
 VyaaparX-Ecommerce-Analysis/
 │
-├── VyaaparX_Ecommerce_Analysis.xlsx
-├── VyaaparX_Analysis_Presentation.pptx
-├── Dashboard_Screenshot.png
+├── VyaaparX_Monthly_Sales_Analysis.xlsx
+├── E-Commerce Sales and Customer performance Analysis.pptx
+├── Dashboard_2.png
+├──dashboard.png
 └── README.md
 ```
 
